@@ -77,7 +77,7 @@ interface BlogConfig {
 
 const CONFIG: BlogConfig = {
   NOTION_PAGE_ID:
-    process.env.NOTION_PAGE_ID ?? '1b836ba33dc4804a8ce6e5ec022dc9df',
+    process.env.NOTION_PAGE_ID ?? '1d836ba33dc480238fbde5295d33e5a9',
   NOTION_SITE_NAME: '1HO资源联盟',
   NEXT_REVALIDATE_SECONDS: 60,
   FORCE_UPDATE_TIME: 1620000000000,
